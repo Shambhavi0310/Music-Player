@@ -25,5 +25,5 @@ $ node app.js
 
 ```
 
-## Authors
+## Author
 Shambhavi Bhilwadikar 
